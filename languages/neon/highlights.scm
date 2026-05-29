@@ -3,6 +3,7 @@
 
 ; Scalars
 (string) @string
+(datetime) @number
 (number) @number
 (boolean) @boolean
 (null) @constant.builtin
