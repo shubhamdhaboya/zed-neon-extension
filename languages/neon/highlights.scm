@@ -26,5 +26,5 @@
 
 ; Punctuation
 ["[" "]" "{" "}" "(" ")"] @punctuation.bracket
-[":" ","] @punctuation.delimiter
+[":" "=" ","] @punctuation.delimiter
 "-" @punctuation.special

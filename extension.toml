@@ -11,7 +11,7 @@ repository = "https://github.com/shubham-dhaboya/zed-neon-extension"
 # a commit that exists in that repository.
 [grammars.neon]
 repository = "file:///Users/mbmit/Desktop/fun/tree-sitter-neon"
-rev = "ab337b35d80166d6fd2fe8a75ac48c1b16595d66"
+rev = "1ea6cde0a2eab08cb2ce11e77ef6d562f4f87c59"
 
 # FOR PUBLISHING: push tree-sitter-neon to GitHub and switch to the remote:
 # [grammars.neon]
