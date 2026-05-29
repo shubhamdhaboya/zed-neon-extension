@@ -6,14 +6,8 @@ authors = ["Shubham Dhaboya <shubhu.patel1104@gmail.com>"]
 description = "NEON (Nette Object Notation) language support: syntax highlighting, brackets, indentation, and outline."
 repository = "https://github.com/shubhamdhaboya/zed-neon-extension"
 
-# --- Grammar ---------------------------------------------------------------
-# LOCAL DEVELOPMENT: load the grammar from the sibling checkout. `rev` must be
-# a commit that exists in that repository.
-[grammars.neon]
-repository = "file:///Users/mbmit/Desktop/fun/tree-sitter-neon"
-rev = "20a06e9dbd60431d639717cfca50f86a14d8772b"
 
 # FOR PUBLISHING: push tree-sitter-neon to GitHub and switch to the remote:
-# [grammars.neon]
-# repository = "https://github.com/shubhamdhaboya/tree-sitter-neon"
-# rev = "<commit-sha-on-github>"
+[grammars.neon]
+repository = "https://github.com/shubhamdhaboya/tree-sitter-neon"
+rev = "20a06e9dbd60431d639717cfca50f86a14d8772b"
