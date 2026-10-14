@@ -1,5 +1,5 @@
 id = "nette-neon"
-name = "NEON Lang"
+name = "NEON Parser"
 version = "0.0.1"
 schema_version = 1
 authors = ["Shubham Dhaboya <shubhu.patel1104@gmail.com>"]
