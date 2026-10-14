@@ -1,5 +1,5 @@
-id = "neon"
-name = "NEON"
+id = "nette-neon"
+name = "NEON Lang"
 version = "0.0.1"
 schema_version = 1
 authors = ["Shubham Dhaboya <shubhu.patel1104@gmail.com>"]
